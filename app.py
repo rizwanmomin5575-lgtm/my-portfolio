@@ -12,7 +12,7 @@ PROFILE = {
     "location": "Pune, Maharashtra, India",
     "email": "rizwanmomin5575@gmail.com",
     "github": "https://github.com/rizwanmomin5575-lgtm.",
-    "linkedin": "https://www.linkedin.com/in/yourusername/",
+    "linkedin": "https://www.linkedin.com/in/rizwan-momin/",
     "intro": "I build responsive web experiences with HTML, CSS and JavaScript, and I’m learning Python to develop practical backend applications."
 }
 
