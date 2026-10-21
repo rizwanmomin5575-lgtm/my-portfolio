@@ -1,0 +1,1 @@
+Add your actual PDF resume to this folder and name it resume.pdf. The portfolio's View Resume link expects static/files/resume.pdf.
